@@ -1,0 +1,15 @@
+#include<portugues.lang>;
+
+numero nota = [];
+numero media = 0;
+
+para(numero i = 0, i < 3, i++){
+    escreva("Nota", i,":");
+    leia(numero ,nota[i]);
+}
+
+para(numero i = 0, i < 3, i++){
+    media +=  nota[i];
+}
+media /=  3;
+escreva("A média é:", media);
