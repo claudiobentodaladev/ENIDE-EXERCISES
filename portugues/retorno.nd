@@ -1,0 +1,7 @@
+#include<portugues.lang>;
+
+funcao ola() {
+    retorna("Ola, mundo!");
+}
+
+escreva(ola());

@@ -1,0 +1,11 @@
+#include<portugues.lang>;
+
+numero num = 4;
+
+se(num == 7){
+    escreva("Cr7");
+} senao se(num == 10){
+    escreva("Messi");
+} senao{
+    escreva("No goat number");
+}

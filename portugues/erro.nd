@@ -1,0 +1,12 @@
+#include<portugues.lang>;
+
+numero a;
+numero c;
+
+
+escreva("Insere o terceiro valor:");
+leia(  numero, c);
+
+media = (a + b + c) / 3;
+
+escreva(media);

@@ -1,0 +1,7 @@
+#include<portugues.lang>;
+
+funcao ola(texto nome, numero idade) {
+    escreva("Ola, eu sou o", nome, "e eu tenho", idade,"de idade");
+}
+
+ola("claudio", 16);

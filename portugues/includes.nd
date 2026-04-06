@@ -1,0 +1,4 @@
+#include<portugues.lang>;
+#include<matematica.nd>;
+
+escreva(Raiz(100));

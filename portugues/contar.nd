@@ -1,0 +1,15 @@
+#include<portugues.lang>;
+
+escreva("==== PARA");
+
+para(numero i = 10, i > 0, i--){
+    escreva(i);
+}
+
+escreva("==== ENQUANTO");
+
+numero index = 0;
+enquanto(index <= 10){
+    escreva(index);
+    index += 1;
+}

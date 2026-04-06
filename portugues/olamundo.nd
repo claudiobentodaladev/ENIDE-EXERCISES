@@ -1,0 +1,10 @@
+#include<portugues.lang>;
+#incluir<matematica.nd>;
+
+escreva("ola, mundo!");
+
+numero x = 3;
+
+se(Enumero(x)){
+    escreva("É mesmo isso");
+}

@@ -1,0 +1,8 @@
+#include<portugues.lang>;
+
+escreva("O valor a multiplicar:");
+leia(numero, valor);
+
+para(numero i = 1, i <= 10, i++){
+    escreva(valor, " X ", i, " = ", valor * i);
+}

@@ -1,0 +1,13 @@
+#include<portugues.lang>;
+
+numero valor;
+
+escreva("Insere um numero entre 1 à 10:");
+leia(numero, valor);
+
+enquanto(valor < 0 | valor > 10){
+    escreva("Insere um numero entre 1 à 10:");
+    leia(numero, valor);
+}
+
+escreva("Obrigado por Inserir", valor);

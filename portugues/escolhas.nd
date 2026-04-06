@@ -1,0 +1,17 @@
+#include<portugues.lang>;
+
+numero num = 2;
+
+escolha(num){
+    caso(1){
+        escreva("É um 1");
+    }
+
+    caso(2){
+        escreva("É um 2");
+    }
+
+    contrario{
+        escreva("Não é um 1");
+    }
+}

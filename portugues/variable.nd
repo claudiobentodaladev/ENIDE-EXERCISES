@@ -1,0 +1,6 @@
+#include<portugues.lang>;
+
+numero idade = 16;
+texto nome = "claudio";
+
+escreva("Ola, eu sou o", nome, "e tenho", idade, "de idade");

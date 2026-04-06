@@ -1,0 +1,16 @@
+#include<portugues.lang>;
+
+numero valorA;
+numero valorB;
+
+escreva("Insere o primeiro valor:");
+leia(numero,valorA);
+
+escreva("Insere o segundo valor:");
+leia(numero,valorB);
+
+se(valorA > valorB){
+    escreva("Maior: ", valorA);
+} senao{
+    escreva("Maior: ", valorB);
+}

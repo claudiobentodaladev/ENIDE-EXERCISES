@@ -1,0 +1,15 @@
+#include<portugues.lang>;
+
+numero valorA;
+numero valorB;
+numero soma;
+
+escreva("Insere o primeiro valor:");
+leia(numero,valorA);
+
+escreva("Insere o segundo valor:");
+leia(numero,valorB);
+
+soma = valorA + valorB;
+
+escreva(soma);

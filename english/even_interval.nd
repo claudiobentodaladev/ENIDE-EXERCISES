@@ -1,0 +1,19 @@
+#include<english.lang>;
+
+number values = [];
+
+/* dd 
+erblebruo
+rhroheourhoeuhgro
+*/
+
+for(number i = 0, i < 5, i++){
+    print("Insert a number", i,":");
+    scan(number, values[i]);
+}
+
+for(number i = 0, i < 5, i++){
+    if(values[i] % 2 == 0){
+        print(values[i], "is even.");
+    }
+}

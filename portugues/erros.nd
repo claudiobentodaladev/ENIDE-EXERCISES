@@ -1,0 +1,9 @@
+#include<portugues.lang>;    
+
+tentar{
+    escreva("Sem erro");
+} errar{
+    escreva("Cem erro");
+} final{
+    escreva("Sempre aqui");
+}

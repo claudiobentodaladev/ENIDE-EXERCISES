@@ -1,0 +1,5 @@
+#include<english.lang>;
+
+string names = "claudio";
+
+print(names);

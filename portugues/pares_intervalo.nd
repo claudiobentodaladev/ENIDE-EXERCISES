@@ -1,0 +1,14 @@
+#include<portugues.lang>;
+
+numero valor = [];
+
+para(numero i = 0, i < 5, i++){
+    escreva("Insere um numero", i,":");
+    leia(numero, valor[i]);
+}
+
+para(numero i = 0, i < 5, i++){
+    se(valor[i] % 2 == 0){
+        escreva(valor[i], "é par");
+    }
+}

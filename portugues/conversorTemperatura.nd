@@ -1,0 +1,12 @@
+#include<portugues.lang>;
+
+numero celcius;
+numero fahrenheit;
+
+escreva("Insere o valor em celcius:");
+leia(numero, celcius);
+
+
+fahrenheit = celcius * (9/5) + 32;
+
+escreva(fahrenheit);

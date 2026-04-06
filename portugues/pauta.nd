@@ -1,0 +1,29 @@
+#include<portugues.lang>;
+
+numero a;
+numero b;
+numero c;
+numero media;
+
+escreva("Insere o primeiro nota:");
+leia(numero, a);
+
+escreva("Insere o segundo nota:");
+leia(numero, b);
+
+escreva("Insere o terceiro nota:");
+leia(numero, c);
+
+media = (a + b + c) / 3;
+
+se(media >= 7){
+    escreva("aprovado");
+}
+senao se(media >= 5){
+     escreva("recurso");
+}
+senao{
+     escreva("reprovado");
+}
+
+escreva("Com media", media);

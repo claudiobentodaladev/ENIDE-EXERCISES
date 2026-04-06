@@ -1,0 +1,12 @@
+#include<portugues.lang>;
+
+numero valor;
+
+escreva("Insere o  numero:");
+leia(numero, valor);
+
+se(valor % 2 == 0){
+    escreva("par");
+} senao {
+    escreva("impar");
+}
