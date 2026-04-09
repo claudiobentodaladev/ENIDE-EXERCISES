@@ -16,10 +16,10 @@ leia(numero, c);
 
 media = (a + b + c) / 3;
 
-se(media >= 7){
+se(media >= 10){
     escreva("aprovado");
 }
-senao se(media >= 5){
+senao se(media >= 7){
      escreva("recurso");
 }
 senao{
