@@ -1,4 +1,4 @@
-#include<portugues.lang>;    
+#incluir<portugues.lang>;
 
 tentar{
     escreva("Sem erro");

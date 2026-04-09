@@ -1,4 +1,4 @@
-#include<portugues.lang>;
-#include<matematica.nd>;
+#incluir<portugues.lang>;
+#incluir<matematica.nd>;
 
 escreva(Raiz(100));

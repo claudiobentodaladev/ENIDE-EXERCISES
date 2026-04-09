@@ -1,4 +1,4 @@
-#include<portugues.lang>;
+#incluir<portugues.lang>;
 
 escreva("O valor a multiplicar:");
 leia(numero, valor);
