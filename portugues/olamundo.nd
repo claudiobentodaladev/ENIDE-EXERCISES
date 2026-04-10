@@ -1,5 +1,5 @@
 #incluir<portugues.lang>;
-#incluir<matematica.nd>;
+#incluir<matematica.lib>;
 
 escreva("ola, mundo!");
 
