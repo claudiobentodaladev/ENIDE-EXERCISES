@@ -1,0 +1,12 @@
+#incluir<portugues.lang>;
+
+objecto ddd = {
+     ola: "olaaaa";
+     hi: 2;
+     llll: ["one", "two"];
+     boo: true;
+}
+
+ddd.ola = "hi";
+
+escreva(ddd.ola);
