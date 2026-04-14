@@ -3,6 +3,11 @@
 numero a;
 numero c;
 
+escreva("Insere o primeiro valor:");
+leia(  numero, a);
+
+escreva("Insere o segundo valor:");
+leia(  numero, b);
 
 escreva("Insere o terceiro valor:");
 leia(  numero, c);
