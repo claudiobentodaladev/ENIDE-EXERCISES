@@ -11,6 +11,8 @@ leia(numero,valorB);
 
 se(valorA > valorB){
     escreva("Maior: ", valorA);
+} se senao(valorA == valorB){
+    escreva("Igual", valorA);
 } senao{
     escreva("Maior: ", valorB);
 }
