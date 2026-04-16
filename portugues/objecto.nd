@@ -1,12 +1,10 @@
 #incluir<portugues.lang>;
 
 objecto ddd = {
-     ola: "olaaaa";
-     hi: 2;
-     llll: ["one", "two"];
-     boo: true;
+    texto ola = "olaaaa";
+    numero hi = 2;
+    texto llll = ["one", "two"];
+    bool boo = verdadeiro;
 }
-
-ddd.ola = "hi";
 
 escreva(ddd.ola);
