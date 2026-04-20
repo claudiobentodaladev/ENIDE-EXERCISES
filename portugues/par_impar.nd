@@ -1,6 +1,6 @@
 #incluir<portugues.lang>;
 
-numero valor;
+numero valor = 0;
 
 escreva("Insere o  numero:");
 leia(numero, valor);

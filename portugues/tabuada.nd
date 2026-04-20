@@ -1,5 +1,7 @@
 #incluir<portugues.lang>;
 
+numero valor = 0;
+
 escreva("O valor a multiplicar:");
 leia(numero, valor);
 

@@ -1,9 +1,9 @@
 #incluir<portugues.lang>;
 
-numero a;
-numero b;
-numero c;
-numero media;
+numero a = 0;
+numero b = 0;
+numero c = 0;
+numero media = 0;
 
 escreva("Insere o primeiro valor:");
 leia(numero,a);

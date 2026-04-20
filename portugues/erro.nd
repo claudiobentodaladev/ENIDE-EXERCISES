@@ -1,7 +1,8 @@
 #incluir<portugues.lang>;
 
-numero a;
-numero c;
+numero a = 0;
+numero b = 0;
+numero c = 0;
 
 escreva("Insere o primeiro valor:");
 leia(  numero, a);
@@ -12,6 +13,6 @@ leia(  numero, b);
 escreva("Insere o terceiro valor:");
 leia(  numero, c);
 
-media = (a + b + c) / 3;
+numero media = (a + b + c) / 3;
 
 escreva(media);

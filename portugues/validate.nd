@@ -1,6 +1,6 @@
 #incluir<portugues.lang>;
 
-numero valor;
+numero valor = 0;
 
 escreva("Insere um numero entre 1 à 10:");
 leia(numero, valor);

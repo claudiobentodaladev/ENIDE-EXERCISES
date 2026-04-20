@@ -1,7 +1,7 @@
 #incluir<portugues.lang>;
 
-numero celcius;
-numero fahrenheit;
+numero celcius = 0;
+numero fahrenheit = 0;
 
 escreva("Insere o valor em celcius:");
 leia(numero, celcius);

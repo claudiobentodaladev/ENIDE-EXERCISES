@@ -1,7 +1,7 @@
 #incluir<portugues.lang>;
 
-numero valorA;
-numero valorB;
+numero valorA = 0;
+numero valorB = 0;
 
 escreva("Insere o primeiro valor:");
 leia(numero,valorA);
