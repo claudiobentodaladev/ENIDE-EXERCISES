@@ -1,0 +1,3 @@
+#einbinden<deutsch.lang>;
+
+drucken("Hallo Welt!");
