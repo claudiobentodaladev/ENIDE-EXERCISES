@@ -1,4 +1,4 @@
-#incluir<portugues.lang>;
+#incluir < portugues.lang>;
 
 objecto ddd = {
     texto ola = "olaaaa";
