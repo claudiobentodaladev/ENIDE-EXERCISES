@@ -1,5 +1,7 @@
 #kubandeka<kimbundu.lang>;
+
 kikalakalu kumenekena(kisoneku jina, kitalu mivu) {
   kusoneka("Kiambote, eme ngi ", jina, " ni ngala ni ", mivu, " kia mivu");
 }
+
 kumenekena("claudio", 17);
