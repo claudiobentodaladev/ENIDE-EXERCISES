@@ -1,0 +1,15 @@
+#kubandeka<kimbundu.lang>;
+
+kitalu valoloA = 0;
+kitalu valoloB = 0;
+kitalu mbandeku = 0;
+
+kusoneka("Ta valolo ia dianga:");
+kutanga(kitalu, valoloA);
+
+kusoneka("Ta valolo ia kaiadi:");
+kutanga(kitalu, valoloB);
+
+mbandeku: kitalu = valoloA + valoloB;
+
+kusoneka("mbandeku", mbandeku);
