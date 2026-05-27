@@ -7,6 +7,6 @@ escreva("Insere o valor em celcius:");
 leia(numero, celcius);
 
 
-fahrenheit = celcius * (9/5) + 32;
+fahrenheit: numero = celcius * (9/5) + 32;
 
 escreva(fahrenheit);

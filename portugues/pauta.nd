@@ -14,7 +14,7 @@ leia(numero, b);
 escreva("Insere o terceiro nota:");
 leia(numero, c);
 
-media = (a + b + c) / 3;
+media: numero = (a + b + c) / 3;
 
 se(media >= 10){
     escreva("aprovado");

@@ -11,5 +11,5 @@ escreva("==== ENQUANTO");
 numero index = 0;
 enquanto(index <= 10){
     escreva(index);
-    index += 1;
+    index: numero += 1;
 }

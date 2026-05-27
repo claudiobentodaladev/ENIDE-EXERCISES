@@ -1,6 +1,6 @@
 #incluir<portugues.lang>;
 
 numero x = 2;
-x += 1;
+x: numero += 1;
 
 escreva(x);

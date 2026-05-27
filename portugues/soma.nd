@@ -10,6 +10,6 @@ leia(numero,valorA);
 escreva("Insere o segundo valor:");
 leia(numero,valorB);
 
-soma = valorA + valorB;
+soma: numero = valorA + valorB;
 
-escreva(soma);
+escreva("soma", soma);

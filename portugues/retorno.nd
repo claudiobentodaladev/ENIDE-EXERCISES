@@ -1,7 +1,7 @@
 #incluir<portugues.lang>;
 
 funcao ola() {
-    retorna("Ola, mundo!");
+    retornar("Ola, mundo!");
 }
 
 escreva(ola());

@@ -9,7 +9,7 @@ para(numero i = 0, i < 3, i++){
 }
 
 para(numero i = 0, i < 3, i++){
-    media +=  nota[i];
+    media: numero +=  nota[i];
 }
-media /=  3;
+media: numero /=  3;
 escreva("A média é:", media);
