@@ -1,0 +1,15 @@
+#kubandeka<kimbundu.lang>;
+kisoneku jina = "";
+kitalu mivu = 0;
+
+kikalakalu kiambote(kisoneku jina, kitalu mivu) {
+  kusoneka("Kiambote, eme ngi ", jina, " ni ngala ni ", mivu, " kia mivu");
+}
+
+kusoneka("Jina:");
+kutanga(kisoneku, jina);
+
+kusoneka("Mivu:");
+kutanga(kitalu, mivu);
+
+kiambote(jina, mivu);
