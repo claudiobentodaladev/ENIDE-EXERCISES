@@ -4,7 +4,7 @@ kisoneku jina = "";
 kitalu mivu = 0;
 
 kikalakalu kiambote(kisoneku jina, kitalu mivu) {
-  kusoneka("Kiambote, eme ngi ", jina, " ni ngala ni ", mivu, " kia mivu");
+  kusoneka("Kiambote, eme ngi", jina, "ni ngala ni", mivu, "kia mivu");
 }
 
 kusoneka("Jina:");
